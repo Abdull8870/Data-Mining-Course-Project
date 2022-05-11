@@ -1,7 +1,7 @@
 
 # MULTIPLE IMPUTATION VIA MARKOV CHAIN AND MONTE CARLO SIMULATION (MCMC)
 
-This project is been done as a part of Data Mining course which helps in predicting the missing values present in the dataset with the help of famous MCMCM sampling.
+This project is been done as a part of Data Mining course which helps in predicting the missing values present in the dataset with the help of famous MCMC sampling.
  
 ## Features
 
